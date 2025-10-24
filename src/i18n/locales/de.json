@@ -324,7 +324,7 @@
     },
     "sampleCourses": {
       "germanInternationalCooperation": {
-        "title": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)",
+        "title": "REDEX Internationale Zusammenarbeit",
         "description": "Umfassendes Schulungsprogramm mit Fokus auf Arbeitsreform-Initiativen, digitale Lernpfade und Stakeholder-Engagement-Strategien für nachhaltige Entwicklung und Arbeitskräfte-Ermächtigung."
       },
       "strategicCommunication": {
@@ -415,11 +415,11 @@
       "employerGuides": "Arbeitgeber-Leitfäden",
       "educatorResources": "Pädagogen-Ressourcen",
       "caseStudies": "Fallstudien",
-      "gizReports": "GIZ-Berichte"
+      "redexReports": "REDEX-Berichte"
     },
     "featured": {
       "title": "Empfohlen diese Woche",
-      "recommended": "Empfohlen von GIZ",
+      "recommended": "Empfohlen von REDEX",
       "readMore": "Mehr lesen",
       "watchNow": "Jetzt ansehen"
     },
@@ -496,7 +496,7 @@
       },
       "campaignCatalysts": {
         "name": "Kampagnen-Katalysatoren",
-        "description": "Diskussionen über GIZ-geführte Kampagnen und Aufklärungsmaßnahmen."
+        "description": "Diskussionen über REDEX-geführte Kampagnen und Aufklärungsmaßnahmen."
       },
       "eventSpotlight": {
         "name": "Event-Spotlight",

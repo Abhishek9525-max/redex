@@ -55,8 +55,8 @@ const ModuleCard = ({ module, onDelete, onUpdate, onComplete, courseType = 'open
       return;
     }
     
-    // Special handling for German International Cooperation (GIZ) module - open SCORM link in new tab
-    if (module.title === "German International Cooperation (GIZ)") {
+    // Special handling for REDEX International Cooperation module - open SCORM link in new tab
+    if (module.title === "REDEX International Cooperation") {
       window.open('https://lesson-banners.s3.us-east-1.amazonaws.com/Scorms/update_german-international-cooperation-giz-scorm12-SBhdQa4k/scormcontent/index.html#/lessons/C3_BxMCrM8Y3zw4mmGdBEsMRJ7PT_a_X', '_blank');
       return;
     }

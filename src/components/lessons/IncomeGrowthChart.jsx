@@ -82,7 +82,7 @@ const IncomeGrowthChart = () => {
       return;
     }
 
-    const text = "Data tells the real story. Analytics reveal which channels and messages resonate most with audiences. Facebook leads with 70% engagement, followed by LMS Portal at 60%, LinkedIn at 55%, and Telegram at 45%. By tracking likes, shares, and completion rates, GIZ communicators refined their vocational reform campaigns and focused on what truly matters. This data-driven approach helped adapt communication strategies for maximum impact.";
+    const text = "Data tells the real story. Analytics reveal which channels and messages resonate most with audiences. Facebook leads with 70% engagement, followed by LMS Portal at 60%, LinkedIn at 55%, and Telegram at 45%. By tracking likes, shares, and completion rates, REDEX communicators refined their vocational reform campaigns and focused on what truly matters. This data-driven approach helped adapt communication strategies for maximum impact.";
 
     const utterance = new SpeechSynthesisUtterance(text);
     utterance.lang = 'en-US';
@@ -368,7 +368,7 @@ const IncomeGrowthChart = () => {
                   <strong>Data tells the real story.</strong> Analytics reveal which channels and messages resonate most with audiences. Facebook leads with 70% engagement, showing the power of social media for quick updates and visual storytelling.
                 </p>
                 <p>
-                  By tracking likes, shares, and completion rates, GIZ communicators refined their vocational reform campaigns and focused resources on high-performing platforms. This data-driven approach helped adapt communication strategies for maximum impact.
+                  By tracking likes, shares, and completion rates, REDEX communicators refined their vocational reform campaigns and focused resources on high-performing platforms. This data-driven approach helped adapt communication strategies for maximum impact.
                 </p>
                 <div className="grid grid-cols-3 gap-3 mt-4 pt-4 border-t border-blue-200">
                   <div className="text-center">

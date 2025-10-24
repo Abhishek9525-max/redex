@@ -1,4 +1,4 @@
-/* GIZ Dashboard - Import Inter and Nunito fonts */
+/* REDEX Dashboard - Import Inter and Nunito fonts */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Nunito:wght@400;600;700&display=swap');
 
 @tailwind base;
@@ -7,11 +7,11 @@
  
 @layer base {
   :root {
-    /* GIZ Color Palette */
-    --giz-blue: #004E9A;
-    --giz-blue-dark: #003d7a;
-    --giz-yellow: #F5C518;
-    --giz-light-grey: #F5F5F5;
+    /* REDEX Color Palette */
+    --redex-blue: #004E9A;
+    --redex-blue-dark: #003d7a;
+    --redex-yellow: #F5C518;
+    --redex-light-grey: #F5F5F5;
     --background: 0 0% 100%;
     --foreground: 222.2 47.4% 11.2%;
  
@@ -416,31 +416,31 @@
   @apply py-4 md:py-6 lg:py-8;
 }
 
-/* GIZ Dashboard Specific Styles */
-.giz-dashboard {
+/* REDEX Dashboard Specific Styles */
+.redex-dashboard {
   font-family: 'Inter', 'Nunito', sans-serif;
 }
 
-.giz-title {
+.redex-title {
   font-family: 'Inter', 'Nunito', sans-serif;
   font-weight: 700;
 }
 
-.giz-accent {
-  color: var(--giz-blue);
+.redex-accent {
+  color: var(--redex-blue);
 }
 
-.giz-bg {
-  background-color: var(--giz-blue);
+.redex-bg {
+  background-color: var(--redex-blue);
 }
 
-.giz-bg-hover:hover {
-  background-color: var(--giz-blue-dark);
+.redex-bg-hover:hover {
+  background-color: var(--redex-blue-dark);
 }
 
-/* GIZ Calendar today highlight */
+/* REDEX Calendar today highlight */
 .calendar-today {
-  background-color: var(--giz-blue);
+  background-color: var(--redex-blue);
   color: white;
   box-shadow: 0 2px 8px rgba(0, 78, 154, 0.3);
 }
@@ -461,7 +461,7 @@
   animation: countUp 0.5s ease-out;
 }
 
-/* GIZ Event card hover effect */
+/* REDEX Event card hover effect */
 .event-card {
   transition: all 0.2s ease-in-out;
 }

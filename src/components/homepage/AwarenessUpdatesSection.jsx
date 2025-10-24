@@ -217,13 +217,13 @@ export function AwarenessUpdatesSection() {
         </div>
       </div>
 
-      {/* Footer - Supported by GIZ */}
+      {/* Footer - Supported by REDEX */}
       <div className="max-w-7xl mx-auto mt-8 flex justify-end">
         <div className="flex items-center gap-2 text-xs text-gray-500">
           <span>{t('awareness.poweredBy')}</span>
           <div className="flex items-center gap-1.5 bg-white px-3 py-1 rounded-full shadow-sm border border-gray-200">
             <div className="w-5 h-5 bg-[#004E9A] rounded-sm flex items-center justify-center text-white font-bold text-[8px]">
-              GIZ
+              REDEX
             </div>
             <span className="font-semibold text-[#004E9A]">{t('awareness.labourReformInitiative')}</span>
           </div>

@@ -38,7 +38,7 @@ const AdminSettings = () => {
             <CardContent className="space-y-4">
               <div className="space-y-2">
                 <Label htmlFor="platformName">Platform Name</Label>
-                <Input id="platformName" defaultValue="GIZ" />
+                <Input id="platformName" defaultValue="REDEX" />
               </div>
               <div className="space-y-2">
                 <Label htmlFor="supportEmail">Support Email</Label>

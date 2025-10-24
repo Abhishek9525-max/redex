@@ -28,7 +28,7 @@ const Courses = () => {
   const [activeTab, setActiveTab] = useState('courses');
   const navigate = useNavigate();
 
-  // GIZ-Aligned Labour Reform Initiative Courses
+  // REDEX-Aligned Labour Reform Initiative Courses
   const mockCourses = [
     {
       id: 1,
@@ -37,13 +37,43 @@ const Courses = () => {
       duration: "12 weeks",
       fullDuration: "8 Weeks (adaptable for 6-week intensive program)",
       format: "Hybrid (workshops, online labs, project consultancy)",
-      output: "German International Cooperation (GIZ)",
+      output: "REDEX International Cooperation",
       level: "Intermediate",
       status: "Active",
       image: "/assets/c1.webp",
       archived: false,
       deleted: false,
       catalog: "Labour Reform"
+    },
+    {
+      id: 2,
+      titleKey: "strategicCommunication",
+      students: 189,
+      duration: "6 weeks",
+      fullDuration: "6 Weeks (intensive communication training)",
+      format: "Online (interactive workshops, case studies, role-playing)",
+      output: "Strategic Communication Certificate",
+      level: "Beginner",
+      status: "Active",
+      image: "/assets/c2.webp",
+      archived: false,
+      deleted: false,
+      catalog: "Communication"
+    },
+    {
+      id: 3,
+      titleKey: "digitalLearningPathways",
+      students: 267,
+      duration: "10 weeks",
+      fullDuration: "10 Weeks (digital transformation focus)",
+      format: "Blended (online modules, virtual labs, digital projects)",
+      output: "Digital Learning Specialist Certification",
+      level: "Advanced",
+      status: "Active",
+      image: "/assets/c3.webp",
+      archived: false,
+      deleted: false,
+      catalog: "Digital Skills"
     }
   ];
 

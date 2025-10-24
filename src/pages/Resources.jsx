@@ -48,7 +48,7 @@ const featuredResource = {
   id: 'featured-1',
   type: 'video',
   title: 'New Labour Codes: What Every Employer Must Know',
-  description: 'An comprehensive webinar by GIZ experts covering the essential aspects of the new labour codes, compliance requirements, and implementation strategies for businesses of all sizes.',
+  description: 'An comprehensive webinar by REDEX experts covering the essential aspects of the new labour codes, compliance requirements, and implementation strategies for businesses of all sizes.',
   tags: ['Policy', 'Training', 'Employer Guides'],
   fileSize: '120 MB',
   publishedDate: 'March 18, 2024',
@@ -70,7 +70,7 @@ const Resources = () => {
     { key: 'employerGuides', label: t('resources.filters.employerGuides') },
     { key: 'educatorResources', label: t('resources.filters.educatorResources') },
     { key: 'caseStudies', label: t('resources.filters.caseStudies') },
-    { key: 'gizReports', label: t('resources.filters.gizReports') }
+    { key: 'redexReports', label: t('resources.filters.redexReports') }
   ];
 
   const languages = [
@@ -167,7 +167,7 @@ const Resources = () => {
             <div className="relative">
               <div className="flex items-center gap-3 bg-gradient-to-br from-blue-600 to-blue-700 px-6 py-4 rounded-xl shadow-xl border-2 border-blue-500">
                 <div className="bg-white rounded-lg p-2.5 shadow-lg">
-                  <div className="text-blue-600 font-bold text-xl leading-none">GIZ</div>
+                  <div className="text-blue-600 font-bold text-xl leading-none">REDEX</div>
                 </div>
                 <div className="border-l-2 border-blue-400 pl-3">
                   <div className="text-white font-bold text-base">Learning Hub</div>

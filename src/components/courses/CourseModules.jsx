@@ -35,7 +35,7 @@ const CourseModules = () => {
         
         if (publishedCourse.modules && publishedCourse.modules.length > 0) {
           const imageMap = {
-            'German International Cooperation (GIZ)': '/assets/communication.PNG',
+            'REDEX International Cooperation': '/assets/communication.PNG',
             'Module 1: Foundations of Strategic Communication': '/assets/communication.PNG',
             'Module 2: Digital and Media Strategies': '/assets/digital.PNG',
             'Module 3: Implementation, Feedback & Crisis Communication': '/assets/LAw.PNG'
@@ -63,7 +63,7 @@ const CourseModules = () => {
           return [
             {
               id: 1,
-              title: "German International Cooperation (GIZ)",
+              title: "REDEX International Cooperation",
               description: "Comprehensive training program focusing on labour reform initiatives, digital learning pathways, and stakeholder engagement strategies for sustainable development and workforce empowerment.",
               units: 8,
               assessments: 3,
@@ -76,7 +76,7 @@ const CourseModules = () => {
         
         const defaultModules = getCourseModules(courseId).map((m) => {
           const titleToImage = {
-            'German International Cooperation (GIZ)': '/assets/communication.PNG',
+            'REDEX International Cooperation': '/assets/communication.PNG',
             'Module 1: Foundations of Strategic Communication': '/assets/communication.PNG',
             'Module 2: Digital and Media Strategies': '/assets/digital.PNG',
             'Module 3: Implementation, Feedback & Crisis Communication': '/assets/LAw.PNG'

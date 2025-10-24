@@ -10,7 +10,7 @@
     "hours": "Hours",
     "activeGroups": "Active Groups",
     "groups": "Groups",
-    "loadingDashboard": "Loading GIZ Dashboard..."
+    "loadingDashboard": "Loading REDEX Dashboard..."
   },
   "awareness": {
     "title": "Awareness & Updates",
@@ -341,7 +341,7 @@
     },
     "sampleCourses": {
       "germanInternationalCooperation": {
-        "title": "German International Cooperation (GIZ)",
+        "title": "REDEX International Cooperation",
         "description": "Comprehensive training program focusing on labour reform initiatives, digital learning pathways, and stakeholder engagement strategies for sustainable development and workforce empowerment."
       },
       "strategicCommunication": {
@@ -432,11 +432,11 @@
       "employerGuides": "Employer Guides",
       "educatorResources": "Educator Resources",
       "caseStudies": "Case Studies",
-      "gizReports": "GIZ Reports"
+      "redexReports": "REDEX Reports"
     },
     "featured": {
       "title": "Featured This Week",
-      "recommended": "Recommended by GIZ",
+      "recommended": "Recommended by REDEX",
       "readMore": "Read More",
       "watchNow": "Watch Now"
     },
@@ -513,7 +513,7 @@
       },
       "campaignCatalysts": {
         "name": "Campaign Catalysts",
-        "description": "Discussions on GIZ-led campaigns and awareness drives."
+        "description": "Discussions on REDEX-led campaigns and awareness drives."
       },
       "eventSpotlight": {
         "name": "Event Spotlight",

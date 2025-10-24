@@ -341,7 +341,7 @@
     },
     "sampleCourses": {
       "germanInternationalCooperation": {
-        "title": "التعاون الدولي الألماني (GIZ)",
+        "title": "التعاون الدولي REDEX",
         "description": "برنامج تدريبي شامل يركز على مبادرات إصلاح العمل ومسارات التعلم الرقمي واستراتيجيات إشراك أصحاب المصلحة للتنمية المستدامة وتمكين القوى العاملة."
       },
       "strategicCommunication": {
@@ -432,11 +432,11 @@
       "employerGuides": "أدلة أصحاب العمل",
       "educatorResources": "موارد المعلمين",
       "caseStudies": "دراسات الحالة",
-      "gizReports": "تقارير GIZ"
+      "redexReports": "تقارير REDEX"
     },
     "featured": {
       "title": "مميز هذا الأسبوع",
-      "recommended": "موصى به من GIZ",
+      "recommended": "موصى به من REDEX",
       "readMore": "اقرأ المزيد",
       "watchNow": "شاهد الآن"
     },
@@ -513,7 +513,7 @@
       },
       "campaignCatalysts": {
         "name": "محفزو الحملات",
-        "description": "مناقشات حول حملات GIZ وبرامج التوعية."
+        "description": "مناقشات حول حملات REDEX وبرامج التوعية."
       },
       "eventSpotlight": {
         "name": "تسليط الضوء على الأحداث",

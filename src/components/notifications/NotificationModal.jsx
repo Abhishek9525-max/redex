@@ -234,7 +234,7 @@ const NotificationModal = ({ isOpen, onClose, onNotificationAction }) => {
         fr: 'Webinaire à venir : Stratégies d\'apprentissage numérique'
       },
       description: {
-        en: 'Join us for an interactive session on implementing effective digital learning pathways for labour reform initiatives. Date: Next Tuesday, 3:00 PM. Expert speakers from GIZ will share best practices.',
+        en: 'Join us for an interactive session on implementing effective digital learning pathways for labour reform initiatives. Date: Next Tuesday, 3:00 PM. Expert speakers from REDEX will share best practices.',
         hi: 'श्रम सुधार पहलों के लिए प्रभावी डिजिटल सीखने के मार्गों को लागू करने पर एक इंटरैक्टिव सत्र में शामिल हों। तारीख: अगले मंगलवार, दोपहर 3:00 बजे।',
         de: 'Nehmen Sie an einer interaktiven Sitzung zur Implementierung effektiver digitaler Lernwege teil. Datum: Nächsten Dienstag, 15:00 Uhr.',
         es: 'Únase a nosotros para una sesión interactiva sobre la implementación de rutas de aprendizaje digital efectivas. Fecha: próximo martes, 3:00 PM.',

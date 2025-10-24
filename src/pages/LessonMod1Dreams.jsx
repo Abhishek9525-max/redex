@@ -337,9 +337,9 @@ const LessonMod1Dreams = () => {
         outcomesTitle: 'परिणाम',
         toolsTitle: 'आप जिन उपकरणों का उपयोग करेंगे',
         paragraph:
-          'इस पाठ में, आप श्रम सुधार की प्राथमिकताओं, डिजिटल परिवर्तन के ड्राइवरों और संचार की आवश्यकताओं को समझेंगे। आप अमेरिकी और अंतर्राष्ट्रीय ढांचे (ILO, GIZ, OECD) की पहचान करेंगे और सार्वजनिक नीति परिवर्तन में संचार की भूमिका को समझेंगे।',
+          'इस पाठ में, आप श्रम सुधार की प्राथमिकताओं, डिजिटल परिवर्तन के ड्राइवरों और संचार की आवश्यकताओं को समझेंगे। आप अमेरिकी और अंतर्राष्ट्रीय ढांचे (ILO, REDEX, OECD) की पहचान करेंगे और सार्वजनिक नीति परिवर्तन में संचार की भूमिका को समझेंगे।',
         outcomes: ['• श्रम सुधार प्राथमिकताओं को समझें', '• डिजिटल परिवर्तन ड्राइवरों की पहचान करें', '• संचार आवश्यकताओं का विश्लेषण करें', '• हितधारक मैपिंग और प्रभाव विश्लेषण करें'],
-        tools: ['• हितधारक प्रभाव मैप', '• संचार आवश्यकता विश्लेषण', '• डिजिटल परिवर्तन ढांचा', '• GIZ दृष्टिकोण टेम्प्लेट'],
+        tools: ['• हितधारक प्रभाव मैप', '• संचार आवश्यकता विश्लेषण', '• डिजिटल परिवर्तन ढांचा', '• REDEX दृष्टिकोण टेम्प्लेट'],
         audioSection: 'सेक्शन 2: ऑडियो विवरण',
         chooseNarration: 'वर्णन भाषा चुनें',
         listenToLesson: 'पाठ सुनें',
@@ -358,9 +358,9 @@ const LessonMod1Dreams = () => {
         outcomesTitle: 'परिणाम',
         toolsTitle: 'तुम्ही वापरणारी साधने',
         paragraph:
-          'या धड्यात, तुम्ही श्रम सुधाराच्या प्राधान्यांना, डिजिटल परिवर्तनाच्या ड्राइव्हर्सना आणि संप्रेषणाच्या गरजा समजून घ्याल. तुम्ही अमेरिकन आणि आंतरराष्ट्रीय फ्रेमवर्क्स (ILO, GIZ, OECD) ओळखाल आणि सार्वजनिक धोरण परिवर्तनात संप्रेषणाची भूमिका समजून घ्याल.',
+          'या धड्यात, तुम्ही श्रम सुधाराच्या प्राधान्यांना, डिजिटल परिवर्तनाच्या ड्राइव्हर्सना आणि संप्रेषणाच्या गरजा समजून घ्याल. तुम्ही अमेरिकन आणि आंतरराष्ट्रीय फ्रेमवर्क्स (ILO, REDEX, OECD) ओळखाल आणि सार्वजनिक धोरण परिवर्तनात संप्रेषणाची भूमिका समजून घ्याल.',
         outcomes: ['• श्रम सुधार प्राधान्ये समजा', '• डिजिटल परिवर्तन ड्राइव्हर्स ओळखा', '• संप्रेषण गरजांचे विश्लेषण करा', '• स्टेकहोल्डर मॅपिंग आणि प्रभाव विश्लेषण करा'],
-        tools: ['• स्टेकहोल्डर प्रभाव मॅप', '• संप्रेषण गरजा विश्लेषण', '• डिजिटल परिवर्तन फ्रेमवर्क', '• GIZ दृष्टिकोण टेम्प्लेट'],
+        tools: ['• स्टेकहोल्डर प्रभाव मॅप', '• संप्रेषण गरजा विश्लेषण', '• डिजिटल परिवर्तन फ्रेमवर्क', '• REDEX दृष्टिकोण टेम्प्लेट'],
         audioSection: 'विभाग 2: ऑडिओ निवेदन',
         chooseNarration: 'निवेदन भाषा निवडा',
         listenToLesson: 'पाठ ऐका',
@@ -379,7 +379,7 @@ const LessonMod1Dreams = () => {
         outcomesTitle: 'Ergebnisse',
         toolsTitle: 'Werkzeuge, die Sie verwenden werden',
         paragraph:
-          'In dieser Lektion verstehen Sie Arbeitsreform-Prioritäten, digitale Transformationsantriebe und Kommunikationsbedürfnisse. Sie identifizieren wichtige US-amerikanische und internationale Rahmenwerke (ILO, GIZ, OECD) und verstehen die Rolle der Kommunikation bei der Transformation öffentlicher Politik.',
+          'In dieser Lektion verstehen Sie Arbeitsreform-Prioritäten, digitale Transformationsantriebe und Kommunikationsbedürfnisse. Sie identifizieren wichtige US-amerikanische und internationale Rahmenwerke (ILO, REDEX, OECD) und verstehen die Rolle der Kommunikation bei der Transformation öffentlicher Politik.',
         outcomes: [
           '• Arbeitsreform-Prioritäten verstehen',
           '• Digitale Transformationsantriebe identifizieren',
@@ -390,7 +390,7 @@ const LessonMod1Dreams = () => {
           '• Stakeholder-Einflusskarte',
           '• Kommunikationsbedarfsanalyse',
           '• Digitaler Transformationsrahmen',
-          '• GIZ-Ansatz-Vorlage'
+          '• REDEX-Ansatz-Vorlage'
         ],
         audioSection: 'Abschnitt 2: Audio-Erzählung',
         chooseNarration: 'Erzählungssprache auswählen',
@@ -410,7 +410,7 @@ const LessonMod1Dreams = () => {
         outcomesTitle: 'Résultats',
         toolsTitle: 'Outils que vous utiliserez',
         paragraph:
-          "Dans cette leçon, vous comprendrez les priorités de réforme du travail, les moteurs de transformation numérique et les besoins de communication. Vous identifierez les cadres américains et internationaux clés (ILO, GIZ, OECD) et comprendrez le rôle de la communication dans la transformation des politiques publiques.",
+          "Dans cette leçon, vous comprendrez les priorités de réforme du travail, les moteurs de transformation numérique et les besoins de communication. Vous identifierez les cadres américains et internationaux clés (ILO, REDEX, OECD) et comprendrez le rôle de la communication dans la transformation des politiques publiques.",
         outcomes: [
           '• Comprendre les priorités de réforme du travail',
           '• Identifier les moteurs de transformation numérique',
@@ -421,7 +421,7 @@ const LessonMod1Dreams = () => {
           '• Carte d\'influence des parties prenantes',
           '• Analyse des besoins de communication',
           '• Cadre de transformation numérique',
-          '• Modèle d\'approche GIZ'
+          '• Modèle d\'approche REDEX'
         ],
         audioSection: 'Section 2 : Narration audio',
         chooseNarration: 'Choisir la langue de narration',
@@ -441,7 +441,7 @@ const LessonMod1Dreams = () => {
         outcomesTitle: 'Resultados',
         toolsTitle: 'Herramientas que usarás',
         paragraph:
-          "En esta lección, entenderás las prioridades de reforma laboral, los impulsores de transformación digital y las necesidades de comunicación. Identificarás marcos estadounidenses e internacionales clave (ILO, GIZ, OECD) y entenderás el papel de la comunicación en la transformación de políticas públicas.",
+          "En esta lección, entenderás las prioridades de reforma laboral, los impulsores de transformación digital y las necesidades de comunicación. Identificarás marcos estadounidenses e internacionales clave (ILO, REDEX, OECD) y entenderás el papel de la comunicación en la transformación de políticas públicas.",
         outcomes: [
           '• Entender las prioridades de reforma laboral',
           '• Identificar impulsores de transformación digital',
@@ -452,7 +452,7 @@ const LessonMod1Dreams = () => {
           '• Mapa de influencia de partes interesadas',
           '• Análisis de necesidades de comunicación',
           '• Marco de transformación digital',
-          '• Plantilla de enfoque GIZ'
+          '• Plantilla de enfoque REDEX'
         ],
         audioSection: 'Sección 2 : Narración audio',
         chooseNarration: 'Elegir el idioma de la narración',
@@ -471,9 +471,9 @@ const LessonMod1Dreams = () => {
       outcomesTitle: 'Outcomes',
       toolsTitle: "Tools You'll Use",
       paragraph:
-        "In this lesson, you'll understand labour reform priorities, digital transformation drivers, and communication needs. You'll identify key U.S. and international frameworks (ILO, GIZ, OECD) and understand the role of communication in public policy transformation.",
+        "In this lesson, you'll understand labour reform priorities, digital transformation drivers, and communication needs. You'll identify key U.S. and international frameworks (ILO, REDEX, OECD) and understand the role of communication in public policy transformation.",
       outcomes: ['• Understand labour reform priorities', '• Identify digital transformation drivers', '• Analyze communication needs', '• Conduct stakeholder mapping and influence analysis'],
-      tools: ['• Stakeholder influence map', '• Communication need analysis', '• Digital transformation framework', '• GIZ approach template'],
+      tools: ['• Stakeholder influence map', '• Communication need analysis', '• Digital transformation framework', '• REDEX approach template'],
       audioSection: 'Section 2: Audio Narration',
       chooseNarration: 'Choose Narration Language',
       listenToLesson: 'Listen to Lesson',

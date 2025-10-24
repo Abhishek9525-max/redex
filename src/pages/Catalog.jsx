@@ -27,7 +27,7 @@ const Catalog = () => {
   const [newCatalogName, setNewCatalogName] = useState('');
   const [newCatalogDescription, setNewCatalogDescription] = useState('');
   
-  // GIZ Labour Reform Initiative Catalogs
+  // REDEX Labour Reform Initiative Catalogs
   const [catalogs, setCatalogs] = useState([
     // FREE COURSES
     {

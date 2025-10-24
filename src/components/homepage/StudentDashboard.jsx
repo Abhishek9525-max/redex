@@ -1,10 +1,10 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
-import { GIZBranding } from './GIZBranding';
+import { REDEXBranding } from './REDEXBranding';
 import { WelcomeStatsSection } from './WelcomeStatsSection';
 import { CalendarEventsSection } from './CalendarEventsSection';
 import { AwarenessUpdatesSection } from './AwarenessUpdatesSection';
-import { LearningPathwaysSection } from './LearningPathwaysSection';
+import { NewCoursesSection } from './NewCoursesSection';
 import { GroupsCommunitySection } from './GroupsCommunitySection';
 import { QuickActionsSection } from './QuickActionsSection';
 import ZoomClassesSection from './ZoomClassesSection';
@@ -15,8 +15,8 @@ export function StudentDashboard() {
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-gray-50 to-blue-50">
-      {/* GIZ Branding Header */}
-      <GIZBranding />
+      {/* REDEX Branding Header */}
+      <REDEXBranding />
       
       {/* Top Section - Two Column Layout */}
       <div className="max-w-7xl mx-auto px-6 pb-6">
@@ -39,18 +39,18 @@ export function StudentDashboard() {
 
         {/* My Courses Section */}
         <div className="mb-8">
-          <LearningPathwaysSection />
+          <NewCoursesSection />
         </div>
 
         {/* Additional Sections Below */}
         <div className="space-y-8">
-          <ZoomClassesSection />
+          {/* <ZoomClassesSection /> */}
           
           {/* Course & Assessment Insights */}
-          <CourseAssessmentInsights />
+          {/* <CourseAssessmentInsights /> */}
           
           {/* Groups & Community Section */}
-          <GroupsCommunitySection />
+          {/* <GroupsCommunitySection /> */}
 
           {/* Quick Actions & Next Steps - Final Section */}
           <QuickActionsSection />

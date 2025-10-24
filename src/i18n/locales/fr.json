@@ -9,11 +9,11 @@
       "employerGuides": "Guides pour Employeurs",
       "educatorResources": "Ressources pour Éducateurs",
       "caseStudies": "Études de Cas",
-      "gizReports": "Rapports GIZ"
+      "redexReports": "Rapports REDEX"
     },
     "featured": {
       "title": "En vedette cette semaine",
-      "recommended": "Recommandé par GIZ",
+      "recommended": "Recommandé par REDEX",
       "readMore": "Lire la suite",
       "watchNow": "Regarder maintenant"
     },
