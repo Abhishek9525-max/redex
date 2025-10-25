@@ -295,7 +295,7 @@ const QuizPage = () => {
                     🎯 Objective:
                   </h3>
                   <p className="text-blue-800">
-                    Match the correct communication content types to their appropriate digital channels in a labour reform awareness campaign.
+                    Match the correct communication content types to their appropriate digital channels in a digital skills training awareness campaign.
                   </p>
                 </div>
 

@@ -1,6 +1,6 @@
 # Multilingual Notification Modal
 
-A fully-featured, accessible, and multilingual notification system for the Labour Reform and Digital Learning LMS.
+A fully-featured, accessible, and multilingual notification system for the Digital Skills Training and Digital Learning LMS.
 
 ## Features
 
@@ -264,5 +264,5 @@ For issues or questions, please contact the development team or create an issue 
 
 ## License
 
-Part of the GIZ Labour Reform & Digital Learning LMS Platform
+Part of the REDEX Digital Skills Training & Digital Learning LMS Platform
 

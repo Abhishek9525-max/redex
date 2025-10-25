@@ -62,7 +62,7 @@ export function CalendarEventsSection() {
     },
     {
       id: 2,
-      title: "Labour Rights Webinar",
+      title: "Digital Skills Webinar",
       date: "Oct 16, 2025",
       time: "2:00 PM",
       type: "live"

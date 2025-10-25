@@ -1,7 +1,7 @@
-# GIZ Digital Learning Dashboard
+# REDEX Digital Learning Dashboard
 
 ## Overview
-This is the redesigned top section of the digital learning dashboard for the GIZ-supported Labour Reform & Digital Learning Initiative. The design emphasizes professional government + modern NGO aesthetics with a focus on data-driven, inclusive, and bilingual-ready interface.
+This is the redesigned top section of the digital learning dashboard for the REDEX-supported Digital Skills Training & Digital Learning Initiative. The design emphasizes professional government + modern NGO aesthetics with a focus on data-driven, inclusive, and bilingual-ready interface.
 
 ## Components Created
 
@@ -22,7 +22,7 @@ Left side of the dashboard containing:
 Right side of the dashboard containing:
 - **Monthly Calendar**:
   - Clean white background with minimal blue accents
-  - Today's date highlighted in GIZ Blue (#004E9A)
+  - Today's date highlighted in REDEX Blue (#004E9A)
   - Navigation controls for previous/next month
   - Responsive grid layout (7-day week view)
 - **Upcoming Events List**:
@@ -31,10 +31,10 @@ Right side of the dashboard containing:
   - Action buttons: "Join Now" or "Add to My Schedule"
   - Hover effects and subtle shadows
 
-### 3. **GIZBranding.jsx**
+### 3. **REDEXBranding.jsx**
 Branding header component:
-- GIZ logo placeholder (top-right positioning)
-- Initiative name: "Labour Reform & Digital Learning Initiative"
+- REDEX logo placeholder (top-right positioning)
+- Initiative name: "Digital Skills Training & Digital Learning Initiative"
 - Clean white background with subtle shadow
 - Responsive layout
 
@@ -49,10 +49,10 @@ Main dashboard layout:
 
 ### Color Palette
 ```css
---giz-blue: #004E9A       /* Primary brand color */
---giz-blue-dark: #003d7a  /* Hover states */
---giz-yellow: #F5C518     /* Highlight accents */
---giz-light-grey: #F5F5F5 /* Backgrounds */
+--redex-blue: #004E9A       /* Primary brand color */
+--redex-blue-dark: #003d7a  /* Hover states */
+--redex-yellow: #F5C518     /* Highlight accents */
+--redex-light-grey: #F5F5F5 /* Backgrounds */
 ```
 
 ### Typography
@@ -192,7 +192,7 @@ Response: {
 
 ---
 
-**Built for**: GIZ Labour Reform & Digital Learning Initiative  
+**Built for**: REDEX Digital Skills Training & Digital Learning Initiative  
 **Design Philosophy**: Professional yet human-centric  
 **Last Updated**: October 2025
 

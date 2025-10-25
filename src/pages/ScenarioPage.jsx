@@ -23,8 +23,8 @@ const ScenarioPage = () => {
   const [showResults, setShowResults] = useState(false);
 
   const scenario = {
-    title: "Launching a Labour Reform Awareness Campaign",
-    context: "You are managing a digital campaign to raise awareness about new labour reforms. The campaign involves social media posts, LMS modules, and stakeholder outreach. You face three critical decisions along the way.",
+    title: "Launching a Digital Skills Training Awareness Campaign",
+    context: "You are managing a digital campaign to raise awareness about new digital skills training. The campaign involves social media posts, LMS modules, and stakeholder outreach. You face three critical decisions along the way.",
     decisions: [
       {
         id: 1,

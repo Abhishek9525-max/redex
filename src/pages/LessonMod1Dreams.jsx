@@ -83,9 +83,9 @@ const LessonMod1Dreams = () => {
     const map = {
       'en': { 
         backToModules: 'Back to Modules',
-        module1: 'Module 1: Understanding Labour Reform, Digital Transformation & Communication Context',
-        courseTitle: 'Labour Reform & Digital Transformation',
-        description: 'Understand labour reform priorities, digital transformation drivers, and communication needs',
+        module1: 'Module 1: Understanding Digital Skills Training, Digital Transformation & Communication Context',
+        courseTitle: 'Digital Skills Training & Digital Transformation',
+        description: 'Understand digital skills training priorities, digital transformation drivers, and communication needs',
         complete: 'Complete Module'
       },
       'hi': { 
@@ -463,16 +463,16 @@ const LessonMod1Dreams = () => {
       };
     }
     return {
-      introTitle: 'Lesson 1: Labour Reform and Digital Transformation',
-      introSubtitle: "Understand labour reform priorities, digital transformation drivers, and communication needs",
+      introTitle: 'Lesson 1: Digital Skills Training and Digital Transformation',
+      introSubtitle: "Understand digital skills training priorities, digital transformation drivers, and communication needs",
       learnTitle: "What You'll Learn in This Lesson",
       listen: 'Listen',
       stop: 'Stop',
       outcomesTitle: 'Outcomes',
       toolsTitle: "Tools You'll Use",
       paragraph:
-        "In this lesson, you'll understand labour reform priorities, digital transformation drivers, and communication needs. You'll identify key U.S. and international frameworks (ILO, REDEX, OECD) and understand the role of communication in public policy transformation.",
-      outcomes: ['• Understand labour reform priorities', '• Identify digital transformation drivers', '• Analyze communication needs', '• Conduct stakeholder mapping and influence analysis'],
+        "In this lesson, you'll understand digital skills training priorities, digital transformation drivers, and communication needs. You'll identify key U.S. and international frameworks (ILO, REDEX, OECD) and understand the role of communication in public policy transformation.",
+      outcomes: ['• Understand digital skills training priorities', '• Identify digital transformation drivers', '• Analyze communication needs', '• Conduct stakeholder mapping and influence analysis'],
       tools: ['• Stakeholder influence map', '• Communication need analysis', '• Digital transformation framework', '• REDEX approach template'],
       audioSection: 'Section 2: Audio Narration',
       chooseNarration: 'Choose Narration Language',
@@ -596,9 +596,9 @@ const LessonMod1Dreams = () => {
     }
     return [
       {
-        title: 'What is Labour Reform?',
+        title: 'What is Digital Skills Training?',
         front: ['Modernizing labour laws in the digital era', 'Protecting workplace safety and rights', 'Alignment with international standards'],
-        back: 'Labour reform involves updating laws and policies to make workplaces more equitable and secure.',
+        back: 'Digital skills training involves updating skills and competencies to make workplaces more digitally capable and secure.',
         color: 'from-blue-50 to-indigo-50 border-blue-100',
       },
       {
@@ -622,7 +622,7 @@ const LessonMod1Dreams = () => {
     if (baseLang === 'de') return { title: 'PDF-Dokument zur Arbeitsreform', open: 'Öffnen', download: 'Herunterladen' };
     if (baseLang === 'es') return { title: 'Documento PDF de Reforma Laboral', open: 'Abrir', download: 'Descargar' };
     if (baseLang === 'fr') return { title: 'Document PDF sur la réforme du travail', open: 'Ouvrir', download: 'Télécharger' };
-    return { title: 'Labour Reform PDF Document', open: 'Open', download: 'Download' };
+    return { title: 'Digital Skills Training PDF Document', open: 'Open', download: 'Download' };
   }, [baseLang]);
   const pdfUrl = '/assets/Lesson1LabourReform_DigitalTransformation.pdf';
 
@@ -946,7 +946,7 @@ const LessonMod1Dreams = () => {
                 <iframe
                   src={pdfUrl}
                   className="w-full h-full border-0"
-                  title="Lesson 1 Labour Reform Digital Transformation PDF"
+                  title="Lesson 1 Digital Skills Training Digital Transformation PDF"
                   frameBorder="0"
                 >
                   <p className="p-4 text-gray-600">
@@ -1061,11 +1061,11 @@ const LessonMod1Dreams = () => {
           </div>
         </section>
 
-        {/* Section 4: Labour Reform Framework */}
+        {/* Section 4: Digital Skills Training Framework */}
         <section className="max-w-4xl mx-auto mb-12">
           <div className="bg-white rounded-2xl shadow-lg p-8">
             <h2 className="text-2xl font-semibold text-gray-800 mb-6 text-center">
-              {baseLang === 'hi' ? 'श्रम सुधार ढांचा' : baseLang === 'mr' ? 'श्रम सुधार रचना' : 'Labour Reform Framework'}
+              {baseLang === 'hi' ? 'डिजिटल स्किल्स ट्रेनिंग ढांचा' : baseLang === 'mr' ? 'डिजिटल स्किल्स ट्रेनिंग रचना' : 'Digital Skills Training Framework'}
             </h2>
             <div className="space-y-6">
               {[
@@ -1138,7 +1138,7 @@ const LessonMod1Dreams = () => {
               <p className="text-sm text-blue-800 text-center">
                 {baseLang === 'hi' ? 'इस क्रम में श्रम सुधार का निर्माण करें - आधार से शुरू करके ऊपर की ओर बढ़ें' : 
                  baseLang === 'mr' ? 'या क्रमाने श्रम सुधार तयार करा - पायाभरणीपासून सुरुवात करून वरच्या दिशेने जा' : 
-                 'Build labour reform in this order - start from the foundation and work your way up'}
+                 'Build digital skills training in this order - start from the foundation and work your way up'}
               </p>
             </div>
           </div>
@@ -1159,7 +1159,7 @@ const LessonMod1Dreams = () => {
                 },
                 {
                   front: baseLang === 'hi' ? 'नियोक्ता और उद्योग' : baseLang === 'mr' ? 'नियोक्ते आणि उद्योग' : 'Employers & Industry',
-                  back: baseLang === 'hi' ? 'कंपनियां और व्यापार संघ जो श्रम सुधार से प्रभावित होते हैं' : baseLang === 'mr' ? 'कंपन्या आणि व्यापार संघ जे श्रम सुधाराने प्रभावित होतात' : 'Companies and trade associations affected by labour reform',
+                  back: baseLang === 'hi' ? 'कंपनियां और व्यापार संघ जो डिजिटल स्किल्स ट्रेनिंग से प्रभावित होते हैं' : baseLang === 'mr' ? 'कंपन्या आणि व्यापार संघ जे डिजिटल स्किल्स ट्रेनिंगाने प्रभावित होतात' : 'Companies and trade associations affected by digital skills training',
                   color: 'from-green-50 to-emerald-50 border-green-200'
                 },
                 {
@@ -1242,14 +1242,14 @@ const LessonMod1Dreams = () => {
             <div className="space-y-6">
               {[
                 {
-                  question: baseLang === 'hi' ? 'श्रम सुधार में सबसे महत्वपूर्ण क्या है?' : baseLang === 'mr' ? 'श्रम सुधारात सर्वात महत्त्वाचे काय आहे?' : 'What is most important in labour reform?',
+                  question: baseLang === 'hi' ? 'डिजिटल स्किल्स ट्रेनिंग में सबसे महत्वपूर्ण क्या है?' : baseLang === 'mr' ? 'डिजिटल स्किल्स ट्रेनिंगात सर्वात महत्त्वाचे काय आहे?' : 'What is most important in digital skills training?',
                   options: [
                     baseLang === 'hi' ? 'केवल कानूनी परिवर्तन' : baseLang === 'mr' ? 'फक्त कायदेशीर बदल' : 'Only legal changes',
                     baseLang === 'hi' ? 'हितधारकों के साथ संचार और सहयोग' : baseLang === 'mr' ? 'स्टेकहोल्डर्ससह संप्रेषण आणि सहकार्य' : 'Communication and collaboration with stakeholders',
                     baseLang === 'hi' ? 'केवल तकनीकी उन्नयन' : baseLang === 'mr' ? 'फक्त तांत्रिक सुधारणा' : 'Only technological upgrades'
                   ],
                   correct: 1,
-                  explanation: baseLang === 'hi' ? 'हितधारकों के साथ प्रभावी संचार और सहयोग श्रम सुधार की सफलता के लिए महत्वपूर्ण है।' : baseLang === 'mr' ? 'स्टेकहोल्डर्ससह प्रभावी संप्रेषण आणि सहकार्य श्रम सुधाराच्या यशासाठी महत्त्वाचे आहे.' : 'Effective communication and collaboration with stakeholders is crucial for successful labour reform.'
+                  explanation: baseLang === 'hi' ? 'हितधारकों के साथ प्रभावी संचार और सहयोग डिजिटल स्किल्स ट्रेनिंग की सफलता के लिए महत्वपूर्ण है।' : baseLang === 'mr' ? 'स्टेकहोल्डर्ससह प्रभावी संप्रेषण आणि सहकार्य डिजिटल स्किल्स ट्रेनिंगाच्या यशासाठी महत्त्वाचे आहे.' : 'Effective communication and collaboration with stakeholders is crucial for successful digital skills training.'
                 },
                 {
                   question: baseLang === 'hi' ? 'डिजिटल परिवर्तन श्रम बाजार को कैसे प्रभावित करता है?' : baseLang === 'mr' ? 'डिजिटल परिवर्तन श्रम बाजारपेठेवर कसा परिणाम करतो?' : 'How does digital transformation affect the labour market?',

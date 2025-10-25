@@ -64,7 +64,7 @@ const CourseModules = () => {
             {
               id: 1,
               title: "REDEX International Cooperation",
-              description: "Comprehensive training program focusing on labour reform initiatives, digital learning pathways, and stakeholder engagement strategies for sustainable development and workforce empowerment.",
+              description: "Comprehensive training program focusing on digital skills training initiatives, digital learning pathways, and stakeholder engagement strategies for sustainable development and workforce empowerment.",
               units: 8,
               assessments: 3,
               duration: "8 weeks",

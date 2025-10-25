@@ -18,12 +18,14 @@ const AnnouncementItem = ({ announcement, isActive, onClick }) => {
     'reform': FileText,
     'webinar': Video,
     'video': PlayCircle,
+    'digitalInclusion': FileText,
   };
 
   const typeColors = {
     'reform': 'text-[#004E9A]',
     'webinar': 'text-purple-600',
     'video': 'text-red-600',
+    'digitalInclusion': 'text-green-600',
   };
 
   const Icon = typeIcons[announcement.type] || FileText;
@@ -78,13 +80,14 @@ export function AwarenessUpdatesSection() {
   const announcements = [
     {
       id: 1,
-      type: 'reform',
+      type: 'digitalInclusion',
       title: t('awareness.announcements.labourCode.title'),
-      date: 'Oct 1, 2025',
+      date: 'Oct 24, 2025',
       description: t('awareness.announcements.labourCode.description'),
       thumbnail: '/assets/UnderstandingNewLabourCodes.PNG',
       isNew: true,
-      hasVideo: false
+      hasVideo: false,
+      buttonText: 'applyNow'
     },
     {
       id: 2,
@@ -179,6 +182,11 @@ export function AwarenessUpdatesSection() {
                       <>
                         <PlayCircle className="w-4 h-4 mr-2" />
                         {t('awareness.watchNow')}
+                      </>
+                    ) : currentAnnouncement.buttonText === 'applyNow' ? (
+                      <>
+                        <FileText className="w-4 h-4 mr-2" />
+                        {t('awareness.applyNow')}
                       </>
                     ) : (
                       <>

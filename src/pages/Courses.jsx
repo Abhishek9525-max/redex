@@ -28,7 +28,7 @@ const Courses = () => {
   const [activeTab, setActiveTab] = useState('courses');
   const navigate = useNavigate();
 
-  // REDEX-Aligned Labour Reform Initiative Courses
+  // REDEX-Aligned Digital Skills Training Initiative Courses
   const mockCourses = [
     {
       id: 1,
@@ -43,7 +43,7 @@ const Courses = () => {
       image: "/assets/c1.webp",
       archived: false,
       deleted: false,
-      catalog: "Labour Reform"
+      catalog: "Digital Skills Training"
     },
     {
       id: 2,

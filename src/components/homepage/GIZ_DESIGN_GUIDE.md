@@ -1,10 +1,10 @@
-# GIZ Dashboard Design Guide
+# REDEX Dashboard Design Guide
 
 ## Visual Layout
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────┐
-│                                              [GIZ Logo] [Initiative Name] │
+│                                              [REDEX Logo] [Initiative Name] │
 ├───────────────────────────────┬──────────────────────────────────────────┤
 │                               │                                          │
 │  LEFT COLUMN                  │  RIGHT COLUMN                            │
@@ -26,7 +26,7 @@
 │  │    ⏱     │ │   👥     │   │  │ Oct 15 • 10:00 AM                  │ │
 │  └──────────┘ └──────────┘   │  │ [Add to My Schedule]               │ │
 │                               │  ├────────────────────────────────────┤ │
-│                               │  │ 🎥 Labour Rights Webinar           │ │
+│                               │  │ 🎥 Digital Skills Webinar           │ │
 │                               │  │ Oct 16 • 2:00 PM                   │ │
 │                               │  │ [Join Now]                         │ │
 │                               │  └────────────────────────────────────┘ │
@@ -38,9 +38,9 @@
 ### Primary Colors
 | Color | Hex | Usage |
 |-------|-----|-------|
-| **GIZ Blue** | `#004E9A` | Primary buttons, calendar today, brand elements |
-| **GIZ Blue Dark** | `#003d7a` | Hover states, active elements |
-| **GIZ Yellow** | `#F5C518` | Accents, highlights, achievements |
+| **REDEX Blue** | `#004E9A` | Primary buttons, calendar today, brand elements |
+| **REDEX Blue Dark** | `#003d7a` | Hover states, active elements |
+| **REDEX Yellow** | `#F5C518` | Accents, highlights, achievements |
 | **White** | `#FFFFFF` | Card backgrounds, text on dark |
 | **Light Grey** | `#F5F5F5` | Subtle backgrounds, borders |
 
@@ -48,7 +48,7 @@
 
 #### Welcome Card
 - Background: White to light blue gradient (`from-white to-blue-50`)
-- Left border: GIZ Blue 4px accent
+- Left border: REDEX Blue 4px accent
 - Text: Dark grey (#374151)
 
 #### Statistics Cards
@@ -59,7 +59,7 @@
 
 #### Calendar
 - Background: Pure white
-- Today's date: GIZ Blue (#004E9A) with white text
+- Today's date: REDEX Blue (#004E9A) with white text
 - Other dates: Grey (#374151) on hover grey-100
 - Border: Subtle grey
 
@@ -68,9 +68,9 @@
 - Border: Light grey
 - Icons background:
   - 🎥 Live: Red-50 background with red-600 icon
-  - 🏫 Workshop: Blue-50 background with GIZ Blue icon
+  - 🏫 Workshop: Blue-50 background with REDEX Blue icon
   - 📅 Default: Grey-50 background with grey-600 icon
-- Button: GIZ Blue background
+- Button: REDEX Blue background
 
 ## Typography Hierarchy
 
@@ -271,5 +271,5 @@ const upcomingEvents = [
 
 **Design System Version**: 1.0  
 **Last Updated**: October 2025  
-**Maintained by**: GIZ Digital Learning Team
+**Maintained by**: REDEX Digital Learning Team
 

@@ -284,7 +284,7 @@ export function LearningPathwaysSection() {
               </div>
             </div>
 
-            {/* Certificate - Labour Rights */}
+            {/* Certificate - Digital Skills */}
             <div className="bg-white rounded-md p-3 border border-gray-200 hover:border-amber-300 hover:bg-amber-50/30 transition-all group cursor-pointer">
               <div className="flex flex-col items-center text-center gap-1.5">
                 <div className="w-10 h-10 rounded-full bg-amber-100 flex items-center justify-center group-hover:bg-amber-200 transition-colors">

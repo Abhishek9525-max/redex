@@ -14,26 +14,28 @@
   },
   "awareness": {
     "title": "Awareness & Updates",
-    "subtitle": "Stay informed about labour reforms, webinars, and training programs.",
+    "subtitle": "Stay informed about digital skills training, webinars, and training programs.",
     "latestAnnouncements": "Latest Announcements",
     "new": "New",
     "watchNow": "Watch Now",
     "readMore": "Read More",
+    "applyNow": "Apply Now",
     "poweredBy": "Powered by",
-    "labourReformInitiative": "Labour Reform Initiative",
+    "labourReformInitiative": "Digital Skills Training Initiative",
     "types": {
-      "reform": "Labour Reform",
+      "reform": "Digital Skills Training",
       "webinar": "Webinar",
-      "video": "Video Training"
+      "video": "Video Training",
+      "digitalInclusion": "Digital Inclusion"
     },
     "announcements": {
       "labourCode": {
-        "title": "New Labour Code Implementation Phase 2",
-        "description": "The Government announces the second phase of labour code reforms, focusing on worker protection and digital compliance tracking. This comprehensive update includes new guidelines for employers, enhanced worker rights, and digital tracking mechanisms to ensure compliance."
+        "title": "Digital Skills Training for Citizens – REDigitalEX Program",
+        "description": "The Red Extremeña de Desarrollo Rural (REDEX) launches a new initiative under the REDigitalEX Program to enhance digital skills among citizens in Badajoz and Mérida. This EU-funded project aims to improve digital literacy, promote safe internet use, and increase participation in online public services and digital employment opportunities."
       },
       "compliance": {
         "title": "Workplace Compliance Webinar Series",
-        "description": "Join our interactive webinar series on maintaining workplace compliance standards under new labour regulations. Expert speakers will guide you through best practices, case studies, and Q&A sessions."
+        "description": "Join our interactive webinar series on maintaining workplace compliance standards under new digital skills regulations. Expert speakers will guide you through best practices, case studies, and Q&A sessions."
       },
       "digitalLiteracy": {
         "title": "Digital Literacy Training Program",
@@ -52,7 +54,7 @@
   },
   "learning": {
     "title": "My Courses",
-    "subtitle": "Continue your learning journey with courses designed to strengthen labour awareness and digital capability.",
+    "subtitle": "Continue your learning journey with courses designed to strengthen digital skills awareness and digital capability.",
     "continueLearning": "Continue Course",
     "startCourse": "Start Now",
     "resume": "Resume",
@@ -77,12 +79,12 @@
         "description": "Master essential digital skills to thrive in modern workplaces."
       },
       "labourCodes": {
-        "title": "Understanding New Labour Codes",
-        "description": "Learn about your rights and responsibilities under reformed labour laws."
+        "title": "Understanding Digital Skills Standards",
+        "description": "Learn about your rights and responsibilities under reformed digital skills regulations."
       },
       "trainerProgram": {
         "title": "Trainer Enablement Program",
-        "description": "Develop skills to train others effectively on labour reforms and digital tools."
+        "description": "Develop skills to train others effectively on digital skills training and digital tools."
       },
       "compliance": {
         "title": "Workplace Compliance Awareness",
@@ -111,7 +113,7 @@
         "nextLevel": "Next Level"
       },
       "certificates": {
-        "labourRights": "Labour Rights"
+        "labourRights": "Digital Skills & Compliance"
       }
     }
   },
@@ -190,7 +192,7 @@
     "good": "Good",
     "excellent": "Excellent",
     "topics": {
-      "labourLaws": "Labour Laws",
+      "labourLaws": "Digital Skills Laws",
       "digitalTools": "Digital Tools",
       "compliance": "Compliance",
       "advancedPolicies": "Advanced Policies",
@@ -203,7 +205,7 @@
     "subtitle": "Take the next step in your learning journey",
     "viewAllActions": "View All Actions",
     "poweredBy": "Powered by",
-    "labourReformInitiative": "Labour Reform & Digital Learning Initiative",
+    "labourReformInitiative": "Digital Skills Training & Digital Learning Initiative",
     "actions": {
       "enrollPathway": {
         "title": "Enroll in Next Pathway",
@@ -215,7 +217,7 @@
       },
       "watchVideo": {
         "title": "Watch Featured Reform Video",
-        "description": "Stay updated on latest labour reform initiatives"
+        "description": "Stay updated on latest digital skills training initiatives"
       },
       "giveFeedback": {
         "title": "Give Feedback / Suggest a Topic",
@@ -323,7 +325,7 @@
       "published": "Published"
     },
     "catalogs": {
-      "labourReform": "Labour Reform",
+      "labourReform": "Digital Skills Training",
       "digitalSkills": "Digital Skills",
       "policyReform": "Policy & Reform"
     },
@@ -342,19 +344,19 @@
     "sampleCourses": {
       "germanInternationalCooperation": {
         "title": "REDEX International Cooperation",
-        "description": "Comprehensive training program focusing on labour reform initiatives, digital learning pathways, and stakeholder engagement strategies for sustainable development and workforce empowerment."
+        "description": "Comprehensive training program focusing on digital skills training initiatives, digital learning pathways, and stakeholder engagement strategies for sustainable development and workforce empowerment."
       },
       "strategicCommunication": {
         "title": "Strategic Communication",
-        "description": "Master effective communication strategies for labour reform advocacy and stakeholder collaboration in organizational and policy contexts."
+        "description": "Master effective communication strategies for digital skills training advocacy and stakeholder collaboration in organizational and policy contexts."
       },
       "digitalLearningPathways": {
         "title": "Digital Learning Pathways",
         "description": "Explore digital tools, e-learning platforms, and innovative pathways for skill development and workforce empowerment in the digital age."
       },
       "stakeholderEngagement": {
-        "title": "Stakeholder Engagement for Labour Reform Initiatives",
-        "description": "Build expertise in engaging diverse stakeholders—employers, workers, policymakers—to drive meaningful labour law reforms and compliance."
+        "title": "Stakeholder Engagement for Digital Skills Training Initiatives",
+        "description": "Build expertise in engaging diverse stakeholders—employers, workers, policymakers—to drive meaningful digital skills reforms and compliance."
       }
     }
   },
@@ -392,7 +394,7 @@
     "sampleCatalogs": {
       "strategicCommunication": {
         "name": "Strategic Communication Planning",
-        "description": "Develop strategic communication plans for labour reform and digital learning initiatives with stakeholder mapping and messaging frameworks",
+        "description": "Develop strategic communication plans for digital skills training and digital learning initiatives with stakeholder mapping and messaging frameworks",
         "prize": "🏆 Communication Excellence Certificate"
       },
       "awarenessOutreach": {
@@ -407,12 +409,12 @@
       },
       "policyReformAdvocacy": {
         "name": "Policy & Reform Advocacy",
-        "description": "Stakeholder engagement strategies for labour law reforms, compliance, and policy implementation at organizational level",
+        "description": "Stakeholder engagement strategies for digital skills reforms, compliance, and policy implementation at organizational level",
         "prize": "👑 Master Policy Advocate Certification"
       },
       "technicalSupport": {
         "name": "Technical Support & Training",
-        "description": "Provide technical support and training consultancy for effective rollout of labour reform and digital learning programs",
+        "description": "Provide technical support and training consultancy for effective rollout of digital skills training and digital learning programs",
         "prize": "🎓 Expert Training Consultant Diploma"
       },
       "crisisCommunication": {
@@ -493,7 +495,7 @@
       },
       "rightsAwareness": {
         "name": "Rights & Awareness Circle",
-        "description": "Discussions on labour rights and reforms."
+        "description": "Discussions on digital skills and reforms."
       },
       "trainerConnect": {
         "name": "Trainer Connect",
@@ -509,7 +511,7 @@
       },
       "complianceCircle": {
         "name": "Compliance Circle",
-        "description": "Discussing labour reform policies and compliance strategies."
+        "description": "Discussing digital skills training policies and compliance strategies."
       },
       "campaignCatalysts": {
         "name": "Campaign Catalysts",
@@ -546,8 +548,8 @@
     "inbox": "Inbox",
     "notifications": "Notifications",
     "language": "Language",
-    "labourReform": "Labour Reform &",
-    "digitalLearningInitiative": "Digital Learning Initiative",
+    "labourReform": "Digital Skills Training",
+    "digitalLearningInitiative": "REDigitalEX Program",
     "adminPortal": "Admin Portal"
   },
   "supportTicket": {
@@ -696,14 +698,14 @@
         "overallProgress": "Overall Progress",
         "modules": {
           "digitalLiteracy": "Digital Literacy",
-          "labourRights": "Labour Rights",
+          "labourRights": "Digital Skills & Compliance",
           "communication": "Communication Skills",
           "financial": "Financial Literacy",
           "workplace": "Workplace Safety"
         },
         "pathways": {
           "digitalFinancial": "Digital Literacy → Financial Planning",
-          "labourLegal": "Labour Rights → Legal Compliance",
+          "labourLegal": "Digital Skills → Legal Compliance",
           "commLeadership": "Communication → Leadership",
           "financialEntrepreneurship": "Financial Literacy → Entrepreneurship",
           "workplaceRisk": "Workplace Safety → Risk Management"
@@ -751,14 +753,14 @@
         "dayAgo": "1 day ago",
         "modules": {
           "financialPlanning": "Financial Planning",
-          "labourRights": "Labour Rights",
+          "labourRights": "Digital Skills & Compliance",
           "communicationSkills": "Communication Skills",
           "financialLiteracy": "Financial Literacy",
           "riskManagement": "Risk Management",
           "basicComputerSkills": "Basic Computer Skills",
           "digitalMarketing": "Digital Marketing",
           "advancedSafetyProtocols": "Advanced Safety Protocols",
-          "labourCodeBasics": "Labour Code Basics",
+          "labourCodeBasics": "Digital Skills Basics",
           "teamCollaboration": "Team Collaboration"
         },
         "learners": {
@@ -794,7 +796,7 @@
       "modules": {
         "digitalLiteracy": "Digital Literacy Basics",
         "financialPlanning": "Financial Planning",
-        "labourRights": "Labour Rights & Compliance",
+        "labourRights": "Digital Skills & Compliance",
         "communicationSkills": "Communication Skills",
         "workplaceSafety": "Workplace Safety",
         "entrepreneurship": "Entrepreneurship Fundamentals"
@@ -829,7 +831,7 @@
       "assessments": {
         "digitalLiteracyQuiz": "Digital Literacy Quiz",
         "financialPlanningAssessment": "Financial Planning Assessment",
-        "labourLawExam": "Labour Law Exam",
+        "labourLawExam": "Digital Skills Exam",
         "communicationSkillsQuiz": "Communication Skills Quiz",
         "safetyProtocolAssessment": "Safety Protocol Assessment"
       },
@@ -1126,7 +1128,7 @@
         },
         "items": {
           "digitalLiteracyLaunch": "Digital Literacy Module Launch",
-          "labourRightsModule": "Labour Rights Module Rollout",
+          "labourRightsModule": "Digital Skills Module Rollout",
           "communicationSkills": "Communication Skills Training",
           "financialPlanning": "Financial Planning Course",
           "workplaceSafety": "Workplace Safety Campaign",

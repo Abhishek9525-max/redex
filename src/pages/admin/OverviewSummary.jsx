@@ -227,7 +227,7 @@ const OverviewSummary = () => {
       currentModuleKey: 'labourCodeBasics',
       score: 80.5,
       status: 'active',
-      pathway: 'Labour Rights',
+      pathway: 'Digital Skills & Compliance',
       lastActive: '6 hours ago'
     },
     {

@@ -234,7 +234,7 @@ const NotificationModal = ({ isOpen, onClose, onNotificationAction }) => {
         fr: 'Webinaire à venir : Stratégies d\'apprentissage numérique'
       },
       description: {
-        en: 'Join us for an interactive session on implementing effective digital learning pathways for labour reform initiatives. Date: Next Tuesday, 3:00 PM. Expert speakers from REDEX will share best practices.',
+        en: 'Join us for an interactive session on implementing effective digital learning pathways for digital skills training initiatives. Date: Next Tuesday, 3:00 PM. Expert speakers from REDEX will share best practices.',
         hi: 'श्रम सुधार पहलों के लिए प्रभावी डिजिटल सीखने के मार्गों को लागू करने पर एक इंटरैक्टिव सत्र में शामिल हों। तारीख: अगले मंगलवार, दोपहर 3:00 बजे।',
         de: 'Nehmen Sie an einer interaktiven Sitzung zur Implementierung effektiver digitaler Lernwege teil. Datum: Nächsten Dienstag, 15:00 Uhr.',
         es: 'Únase a nosotros para una sesión interactiva sobre la implementación de rutas de aprendizaje digital efectivas. Fecha: próximo martes, 3:00 PM.',
@@ -256,7 +256,7 @@ const NotificationModal = ({ isOpen, onClose, onNotificationAction }) => {
         fr: 'Nouveau message de l\'équipe de campagne'
       },
       description: {
-        en: 'Your feedback on the labour reform awareness campaign has been reviewed. The team has incorporated your suggestions. Check the updated campaign materials in the resources section.',
+        en: 'Your feedback on the digital skills training awareness campaign has been reviewed. The team has incorporated your suggestions. Check the updated campaign materials in the resources section.',
         hi: 'श्रम सुधार जागरूकता अभियान पर आपकी प्रतिक्रिया की समीक्षा की गई है। टीम ने आपके सुझावों को शामिल किया है।',
         de: 'Ihr Feedback zur Arbeitsreform-Sensibilisierungskampagne wurde überprüft. Das Team hat Ihre Vorschläge eingearbeitet.',
         es: 'Se ha revisado su opinión sobre la campaña de concientización sobre la reforma laboral. El equipo ha incorporado sus sugerencias.',
